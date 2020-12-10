@@ -45,5 +45,5 @@ sr.reveal(p, {
 sr.reveal('.btn',{
     distance: '50px',
     scale: 0.85,
-    delay:1500
+    delay:300
 });
